@@ -1,0 +1,642 @@
+[
+  {
+    "artist": "Roberto Darvin, Jorge Trasante",
+    "title": "Kandimba"
+  },
+  {
+    "artist": "La Escuelita",
+    "title": "Llamado Insolito"
+  },
+  {
+    "artist": "Mariana Infold",
+    "title": "Cara A Cara"
+  },
+  {
+    "artist": "Dino",
+    "title": "Don Pascual"
+  },
+  {
+    "artist": "Graciela Paternó",
+    "title": "Quede"
+  },
+  {
+    "artist": "Jose Pedro Bledo",
+    "title": "Después De Ese Cielo"
+  },
+  {
+    "artist": "Otros Shakers",
+    "title": "Siempre Tú"
+  },
+  {
+    "artist": "Daniel Lencina",
+    "title": "Triste"
+  },
+  {
+    "artist": "Yamandú Pérez",
+    "title": "Percusión"
+  },
+  {
+    "artist": "Jorge Galemire",
+    "title": "Va Pensando"
+  },
+  {
+    "artist": "Raíces",
+    "title": "Tijeras Latinas"
+  },
+  {
+    "artist": "Carlos Quintana",
+    "title": "Tambores"
+  },
+  {
+    "artist": "Zafhfaroni",
+    "title": "P'al Galleguito"
+  },
+  {
+    "artist": "Dogliotti",
+    "title": "Biafra"
+  },
+  {
+    "artist": "Daniel Lencina",
+    "title": "Negro en Sol Menor"
+  },
+  {
+    "artist": "La Banda",
+    "title": "Montevideo"
+  },
+  {
+    "artist": "Jaime Roos",
+    "title": "Lo Que No Te Di"
+  },
+  {
+    "artist": "José Pedro Beledo",
+    "title": "Cristales"
+  },
+  {
+    "artist": "Jichushka",
+    "title": "Malafama"
+  },
+  {
+    "artist": "Musica De Cajon De Musica",
+    "title": "Los Que Iban Cantando"
+  },
+  {
+    "artist": "La Chaya De La Coca",
+    "title": "Unknown Track"
+  },
+  {
+    "artist": "Banda Buri Cabure",
+    "title": "El Carbonero"
+  },
+  {
+    "artist": "Banda Sapo Pinto, Los Del Paitití",
+    "title": "Sinha Pureza"
+  },
+  {
+    "artist": "Jhuliano",
+    "title": "Buscando El Camino"
+  },
+  {
+    "artist": "Los Diablos Rojos",
+    "title": "Te Voy A Enseñar"
+  },
+  {
+    "artist": "Los Yungas",
+    "title": "Feito Pero Con Carro"
+  },
+  {
+    "artist": "Mario Cavagnaro Y Su Sonora Sensacion",
+    "title": "Cumbia Verde"
+  },
+  {
+    "artist": "Chacalon",
+    "title": "LLorando Se Fue"
+  },
+  {
+    "artist": "La Mermelada",
+    "title": "El Minero"
+  },
+  {
+    "artist": "Grupo Flash",
+    "title": "Infierno Verde"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "Vuelve, Vuelve Maria"
+  },
+  {
+    "artist": "Orquesta Caravana",
+    "title": "Que Siga La Cumbia"
+  },
+  {
+    "artist": "Los Del Fuego",
+    "title": "Oleo De Mujer Con Sombrero"
+  },
+  {
+    "artist": "La Bohemia",
+    "title": "Mambo De Machaguay"
+  },
+  {
+    "artist": "Timeblind",
+    "title": "Sweet Depression"
+  },
+  {
+    "artist": "Conjunto Midjo-Terra",
+    "title": "Cocaina"
+  },
+  {
+    "artist": "Los Del Beni",
+    "title": "Adios Manaos"
+  },
+  {
+    "artist": "Kuchh Gadbad Hai",
+    "title": "Duniya"
+  },
+  {
+    "artist": "Djet-X",
+    "title": "Jive Turkey"
+  },
+  {
+    "artist": "Grupo Genesis",
+    "title": "Vuela Condor Vuela"
+  },
+  {
+    "artist": "Los Mirlos",
+    "title": "Cumbia Thriller"
+  },
+  {
+    "artist": "Agrupacion El Gran Cacique De Pucallpa",
+    "title": "Homenaje a San Pablo"
+  },
+  {
+    "artist": "Ricardo Suntaxi",
+    "title": "Yumbito"
+  },
+  {
+    "artist": "Halley",
+    "title": "Sonríe"
+  },
+  {
+    "artist": "Panal",
+    "title": "Alma Llanera"
+  },
+  {
+    "artist": "Bogaloo Assassins",
+    "title": "No No No"
+  },
+  {
+    "artist": "Juan Sedes",
+    "title": "Mama Calunga"
+  },
+  {
+    "artist": "Love, Warm And Affection Feat Ralph Weeks",
+    "title": "Talking Bout Love"
+  },
+  {
+    "artist": "Estrellas Africanas De Dexter Johnson",
+    "title": "La Vida Continua"
+  },
+  {
+    "artist": "Quixosis",
+    "title": "Vitamina Qué"
+  },
+  {
+    "artist": "Los Melódicos",
+    "title": "Les Cornichons"
+  },
+  {
+    "artist": "Los Kintos",
+    "title": "Tin Marin"
+  },
+  {
+    "artist": "Ryco Jazz",
+    "title": "La Juventud"
+  },
+  {
+    "artist": "Ti L'Afrique",
+    "title": "Soul Sock Sega"
+  },
+  {
+    "artist": "Grupo Santilia",
+    "title": "Sacale La Miel"
+  },
+  {
+    "artist": "Lucho Chalco",
+    "title": "Ritmo de Tambo"
+  },
+  {
+    "artist": "Los Melódicos",
+    "title": "La Murga De Panama"
+  },
+  {
+    "artist": "Tamborita San Jose De Potrerito",
+    "title": "Cachipon Pirata"
+  },
+  {
+    "artist": "Demetria Flores Y Anastacio Garcia",
+    "title": "Amarguras Y Congojas"
+  },
+  {
+    "artist": "Marisa Torrico",
+    "title": "Suwisito"
+  },
+  {
+    "artist": "DJ Die Soon",
+    "title": "Propagate"
+  },
+  {
+    "artist": "Dj Phyton",
+    "title": "Rosada"
+  },
+  {
+    "artist": "Colourman",
+    "title": "Darkness Cover The World"
+  },
+  {
+    "artist": "Shango",
+    "title": "Soca Fever"
+  },
+  {
+    "artist": "Mangu, Joe Galdo",
+    "title": "Calle Luna, Calle Sol (Spanishtown Remix)"
+  },
+  {
+    "artist": "Soca Raga",
+    "title": "Super Lambada"
+  },
+  {
+    "artist": "Guillermo Butikofer",
+    "title": "Patamanta (Huayño)"
+  },
+  {
+    "artist": "Luz De America",
+    "title": "Sabor Andino"
+  },
+  {
+    "artist": "Los Reales De Cajamarca",
+    "title": "Chicha Colorada"
+  },
+  {
+    "artist": "Orquesta Sinfonica Sunicancha",
+    "title": "Cumbia Oriental"
+  },
+  {
+    "artist": "Sonido 2000",
+    "title": "Fiesta En La Selva"
+  },
+  {
+    "artist": "Orq Lira Tanqueña",
+    "title": "Las Solteritas"
+  },
+  {
+    "artist": "Los Sideral's",
+    "title": "Hippie"
+  },
+  {
+    "artist": "Ecue",
+    "title": "Salsa En Cinco"
+  },
+  {
+    "artist": "Orchestre African Fiesta",
+    "title": "Nansha Nkayende"
+  },
+  {
+    "artist": "Jah Tubbies",
+    "title": "Just Worries"
+  },
+  {
+    "artist": "Pascual Banquez Y Su Conjunto",
+    "title": "Sangre Americana"
+  },
+  {
+    "artist": "Old Oak Amigos",
+    "title": "Latin Soca"
+  },
+  {
+    "artist": "Lokoko",
+    "title": "Kiki Tunela Ngai"
+  },
+  {
+    "artist": "Orquesta Broadway",
+    "title": "Guaripumpe"
+  },
+  {
+    "artist": "Hermes Niño Y Sus Colombian Boys",
+    "title": "Magic Of Love"
+  },
+  {
+    "artist": "Mariano Merceron",
+    "title": "La Negra Tomasa"
+  },
+  {
+    "artist": "Aires Colombianos Celebres",
+    "title": "Las Mirlas"
+  },
+  {
+    "artist": "Phantasma",
+    "title": "Tema de Phantasma"
+  },
+  {
+    "artist": "Luzmila Carpio, Agustín Silva, Bonny Alberto Terán, Ernesto Feliciano Fernández",
+    "title": "Jihuasay (de Nosotros)"
+  },
+  {
+    "artist": "Victor Hugo Lovera, Orquesta Los Tropicales",
+    "title": "La Chichera"
+  },
+  {
+    "artist": "Los Huanca",
+    "title": "Libre Soy"
+  },
+  {
+    "artist": "Los Jokers",
+    "title": "Mis 32 Dientes"
+  },
+  {
+    "artist": "Unknown Artist",
+    "title": "Tren Das Once"
+  },
+  {
+    "artist": "Gertrudis Bonilla",
+    "title": "Buenaventura En Puja"
+  },
+  {
+    "artist": "Los Ases Del Ritmo",
+    "title": "Cumbia Costeña"
+  },
+  {
+    "artist": "Lole Y Su Conj.",
+    "title": "Santo Domingo"
+  },
+  {
+    "artist": "Manicomio",
+    "title": "Caramelo"
+  },
+  {
+    "artist": "El Sabor De Nacho",
+    "title": "Mambo Batiro"
+  },
+  {
+    "artist": "Conjunto Santilia",
+    "title": "Mercado La  Merced"
+  },
+  {
+    "artist": "Los Reyes Del Ritmo",
+    "title": "El Baile Del Ye Ye A Go Go"
+  },
+  {
+    "artist": "Sicodelicos Del Ritmo",
+    "title": "El Chivillo"
+  },
+  {
+    "artist": "Xavier Zetina",
+    "title": "Hasta Que Sentí Vivir"
+  },
+  {
+    "artist": "Conjunto Luz Roja",
+    "title": "La Tierra sigue Temblando"
+  },
+  {
+    "artist": "Contrabando",
+    "title": "Vengan A Bailar"
+  },
+  {
+    "artist": "El Super Combo, Willy Cadenas, Benny Del Solar",
+    "title": "Santa Barbara"
+  },
+  {
+    "artist": "Martha Soto- Kullaguada",
+    "title": "Quiero Beber"
+  },
+  {
+    "artist": "Martha Soto- Kullaguada",
+    "title": "Embrujo"
+  },
+  {
+    "artist": "Martha Soto- Kullaguada",
+    "title": "Porque Soy Pobre"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "Cantando Bailando"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "Chunkituy Palomitay"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "Cholita Valluna"
+  },
+  {
+    "artist": "Martha Soto- Huayño",
+    "title": "Tus Miradas"
+  },
+  {
+    "artist": "Martha Soto- Huayño",
+    "title": "Tres Arbolitos"
+  },
+  {
+    "artist": "Martha Soto- Huayño",
+    "title": "Caripuyo Torrecita"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "En La Misma Cordillera"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "Jatun Jatunta Taquirispa"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "Flor De Kantutita"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "Caripuyeñito"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "Maldita Suerte"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "Malvas Tikita"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "Mis 20 Años"
+  },
+  {
+    "artist": "Martha Soto- Huayño",
+    "title": "Clavelina Deshojada"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "Cancion Y Huayño"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "Mariposita"
+  },
+  {
+    "artist": "Martha Soto",
+    "title": "Mañana Me Voy"
+  },
+  {
+    "artist": "Martha Soto- Kullaguada",
+    "title": "Dulce Bien"
+  },
+  {
+    "artist": "Martha Soto- Kullaguada",
+    "title": "Locamente"
+  },
+  {
+    "artist": "Alfredo Gutiérrez Y Sus Acordeones Dorados, Nacho Paredes",
+    "title": "Cumbia Loca"
+  },
+  {
+    "artist": "Afrosound",
+    "title": "Platico Chino"
+  },
+  {
+    "artist": "Leonello Y Sus Palos Nuevos",
+    "title": "Enigma"
+  },
+  {
+    "artist": "Los Compadres Del Ande",
+    "title": "Cigarro Y Coca"
+  },
+  {
+    "artist": "Heriberto Y Sus Guaracheros",
+    "title": "La Lechuza"
+  },
+  {
+    "artist": "Norberto Romero",
+    "title": "Coqueros "
+  },
+  {
+    "artist": "Los Golden Boys",
+    "title": "El Elevao"
+  },
+  {
+    "artist": "Sonora Cordobesa",
+    "title": "La Solterona"
+  },
+  {
+    "artist": "Numa Bateman Y Su Conjunto",
+    "title": "Alegría Vallenata"
+  },
+  {
+    "artist": "ANDRES LANDERO Y CONJUNTO",
+    "title": "RECUERDOS VIEJOS"
+  },
+  {
+    "artist": "ANDRES LANDERO",
+    "title": "COMPAE PANCHO"
+  },
+  {
+    "artist": "LISANDRO MEZA",
+    "title": "ENTRE REJAS"
+  },
+  {
+    "artist": "ABEL ANTONIO VILLA",
+    "title": "EL REMOLINO DE ORO"
+  },
+  {
+    "artist": "Conjunto Variedades",
+    "title": "El Baile De La Pluma"
+  },
+  {
+    "artist": "Eliseo Herrera, Cesar Castro, Nacho Paredes",
+    "title": "La Bonga"
+  },
+  {
+    "artist": "Combo Los Galleros",
+    "title": "Tabaco Mascao"
+  },
+  {
+    "artist": "AFROSOUND",
+    "title": "CUMBIA DE LOS PAJARITOS"
+  },
+  {
+    "artist": "Tony Marin y Los Tierra Roja",
+    "title": "Delicado "
+  },
+  {
+    "artist": "Afrosound",
+    "title": "Tiro Al Blanco"
+  },
+  {
+    "artist": "Pedro Miguel Y Sus Maracaibos",
+    "title": "Operacion Descarga"
+  },
+  {
+    "artist": "LA DANZA DEL MONO",
+    "title": "LA DANZA DEL MONO"
+  },
+  {
+    "artist": "Tony Marin y Los Tierra Roja",
+    "title": "Pongo De Manseriche "
+  },
+  {
+    "artist": "Fama Stereo De Villazón",
+    "title": "Auto Control"
+  },
+  {
+    "artist": "Los Ronisch",
+    "title": "Isabel"
+  },
+  {
+    "artist": "Miki Y Su Grupo Tormenta",
+    "title": "Escucha Mi Voz"
+  },
+  {
+    "artist": "Grupo Alfiles De Cliza",
+    "title": "Perdí La Razón"
+  },
+  {
+    "artist": "Amadeus",
+    "title": "Celosa"
+  },
+  {
+    "artist": "Magnus",
+    "title": "Esperando Que Vuelvas"
+  },
+  {
+    "artist": "Grupo Alfiles De Cliza",
+    "title": "Donde, Donde Estas Corazón"
+  },
+  {
+    "artist": "Niebla Purpura",
+    "title": "Cristina"
+  },
+  {
+    "artist": "Iberia",
+    "title": "Tu No Eres Para Mi"
+  },
+  {
+    "artist": "Grupo Eclipse De Sucre",
+    "title": "Muchacho Revelde"
+  },
+  {
+    "artist": "Ronisch",
+    "title": "Soledad"
+  },
+  {
+    "artist": "Grupo Marfil",
+    "title": "Chico de Mi Barrio"
+  },
+  {
+    "artist": "Grupo Alfiles De Cliza",
+    "title": "Loca Mía"
+  },
+  {
+    "artist": "Niebla Purpura",
+    "title": "Niebla Purpura"
+  },
+  {
+    "artist": "Grupo Marfil",
+    "title": "Loco Soñador"
+  }
+]
